@@ -1,0 +1,364 @@
+MagickCore/libMagickCore_7_Q16HDRI_la-static.lo: MagickCore/static.c \
+  MagickCore/studio.h MagickCore/magick-config.h \
+  MagickCore/magick-baseconfig.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdarg.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/stdarg.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg___gnuc_va_list.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg_va_list.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg_va_arg.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg___va_copy.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg_va_copy.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/stddef.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_ptrdiff_t.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_size_t.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_wchar_t.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_null.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_max_align_t.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_offsetof.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/stdint.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/sys/stat.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/stat.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/stat.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/inttypes.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/inttypes.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/unistd.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/posix.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/ctype.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/locale.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/errno.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/errno.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/fcntl.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/fcntl.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/math.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/time.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/time.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/limits.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/signal.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/signal.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/assert.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/xlocale.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/pthread.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sched.h \
+  MagickCore/method-attribute.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/endian.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/dirent.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/dirent.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/wait.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/resource.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/time.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/resource.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/pwd.h \
+  MagickCore/magick-type.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/times.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/mman.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/mman.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/socket.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/socket.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/uio.h \
+  MagickCore/coder.h MagickCore/exception-private.h MagickCore/log.h \
+  MagickCore/exception.h MagickCore/semaphore.h MagickCore/magick.h \
+  MagickCore/string_.h MagickCore/image.h MagickCore/blob.h \
+  MagickCore/stream.h MagickCore/pixel.h MagickCore/colorspace.h \
+  MagickCore/cache-view.h MagickCore/color.h MagickCore/composite.h \
+  MagickCore/compress.h MagickCore/effect.h MagickCore/morphology.h \
+  MagickCore/geometry.h MagickCore/layer.h MagickCore/locale_.h \
+  MagickCore/linked-list.h MagickCore/monitor.h MagickCore/profile.h \
+  MagickCore/quantum.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/float.h \
+  /home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
+  MagickCore/resample.h MagickCore/resize.h MagickCore/timer.h \
+  MagickCore/module.h MagickCore/version.h MagickCore/policy.h \
+  MagickCore/static.h coders/coders.h coders/coders-private.h \
+  MagickCore/attribute.h MagickCore/colorspace-private.h \
+  MagickCore/image-private.h MagickCore/pixel-accessor.h \
+  MagickCore/cache.h MagickCore/gem.h MagickCore/fx.h MagickCore/draw.h \
+  MagickCore/type.h MagickCore/random_.h MagickCore/memory_.h \
+  MagickCore/quantum-private.h MagickCore/property.h coders/aai.h \
+  coders/art.h coders/ashlar.h coders/avs.h coders/bayer.h coders/bgr.h \
+  coders/bmp.h coders/braille.h coders/cals.h coders/caption.h \
+  coders/cin.h coders/cip.h coders/clip.h coders/cmyk.h coders/cube.h \
+  coders/cut.h coders/dcm.h coders/dds.h coders/debug.h coders/dib.h \
+  coders/dng.h coders/dpx.h coders/farbfeld.h coders/fax.h coders/fits.h \
+  coders/fl32.h coders/fpx.h coders/ftxt.h coders/gif.h \
+  coders/gradient.h coders/gray.h coders/hald.h coders/hdr.h \
+  coders/histogram.h coders/hrz.h coders/html.h coders/icon.h \
+  coders/info.h coders/inline.h coders/ipl.h coders/jnx.h coders/json.h \
+  coders/kernel.h coders/label.h coders/mac.h coders/magick.h \
+  coders/map.h coders/mask.h coders/mat.h coders/matte.h coders/meta.h \
+  coders/miff.h coders/mono.h coders/mpc.h coders/mpr.h coders/msl.h \
+  coders/mtv.h coders/mvg.h coders/null.h coders/ora.h coders/otb.h \
+  coders/palm.h coders/pango.h coders/pattern.h coders/pcd.h \
+  coders/pcl.h coders/pcx.h coders/pdb.h coders/pdf.h coders/pes.h \
+  coders/pgx.h coders/pict.h coders/pix.h coders/plasma.h coders/pnm.h \
+  coders/ps2.h coders/ps3.h coders/ps.h coders/psd.h coders/pwp.h \
+  coders/qoi.h coders/raw.h coders/rgb.h coders/rgf.h coders/rla.h \
+  coders/rle.h coders/scr.h coders/screenshot.h coders/sct.h \
+  coders/sfw.h coders/sgi.h coders/sixel.h coders/stegano.h \
+  coders/strimg.h coders/sun.h coders/svg.h coders/tga.h \
+  coders/thumbnail.h coders/tile.h coders/tim.h coders/tim2.h \
+  coders/txt.h coders/uil.h coders/url.h coders/uyvy.h coders/vicar.h \
+  coders/vid.h coders/video.h coders/viff.h coders/vips.h coders/wbmp.h \
+  coders/wpg.h coders/xbm.h coders/xc.h coders/xcf.h coders/xpm.h \
+  coders/xps.h coders/yaml.h coders/ycbcr.h coders/yuv.h \
+  coders/coders-list.h
+MagickCore/studio.h:
+MagickCore/magick-config.h:
+MagickCore/magick-baseconfig.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdarg.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/stdarg.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg___gnuc_va_list.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg_va_list.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg_va_arg.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg___va_copy.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stdarg_va_copy.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/stddef.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_ptrdiff_t.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_size_t.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_wchar_t.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_null.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_max_align_t.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/__stddef_offsetof.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/stdint.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/features.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/sys/stat.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/stat.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/stat.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/string.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/strings.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/inttypes.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/inttypes.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/unistd.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/posix.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/ctype.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/locale.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/errno.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/errno.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/fcntl.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/fcntl.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/math.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/time.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/time.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/limits.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/limits.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/signal.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/signal.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/assert.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/compat/xlocale.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/pthread.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sched.h:
+MagickCore/method-attribute.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/endian.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/dirent.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/dirent.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/wait.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/resource.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/time.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/resource.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/pwd.h:
+MagickCore/magick-type.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/times.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/mman.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/mman.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/socket.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/bits/socket.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/sys/uio.h:
+MagickCore/coder.h:
+MagickCore/exception-private.h:
+MagickCore/log.h:
+MagickCore/exception.h:
+MagickCore/semaphore.h:
+MagickCore/magick.h:
+MagickCore/string_.h:
+MagickCore/image.h:
+MagickCore/blob.h:
+MagickCore/stream.h:
+MagickCore/pixel.h:
+MagickCore/colorspace.h:
+MagickCore/cache-view.h:
+MagickCore/color.h:
+MagickCore/composite.h:
+MagickCore/compress.h:
+MagickCore/effect.h:
+MagickCore/morphology.h:
+MagickCore/geometry.h:
+MagickCore/layer.h:
+MagickCore/locale_.h:
+MagickCore/linked-list.h:
+MagickCore/monitor.h:
+MagickCore/profile.h:
+MagickCore/quantum.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/lib/clang/19/include/float.h:
+/home/campbell/junk/Image-Magick-To-Wasm/emsdk/upstream/emscripten/cache/sysroot/include/float.h:
+MagickCore/resample.h:
+MagickCore/resize.h:
+MagickCore/timer.h:
+MagickCore/module.h:
+MagickCore/version.h:
+MagickCore/policy.h:
+MagickCore/static.h:
+coders/coders.h:
+coders/coders-private.h:
+MagickCore/attribute.h:
+MagickCore/colorspace-private.h:
+MagickCore/image-private.h:
+MagickCore/pixel-accessor.h:
+MagickCore/cache.h:
+MagickCore/gem.h:
+MagickCore/fx.h:
+MagickCore/draw.h:
+MagickCore/type.h:
+MagickCore/random_.h:
+MagickCore/memory_.h:
+MagickCore/quantum-private.h:
+MagickCore/property.h:
+coders/aai.h:
+coders/art.h:
+coders/ashlar.h:
+coders/avs.h:
+coders/bayer.h:
+coders/bgr.h:
+coders/bmp.h:
+coders/braille.h:
+coders/cals.h:
+coders/caption.h:
+coders/cin.h:
+coders/cip.h:
+coders/clip.h:
+coders/cmyk.h:
+coders/cube.h:
+coders/cut.h:
+coders/dcm.h:
+coders/dds.h:
+coders/debug.h:
+coders/dib.h:
+coders/dng.h:
+coders/dpx.h:
+coders/farbfeld.h:
+coders/fax.h:
+coders/fits.h:
+coders/fl32.h:
+coders/fpx.h:
+coders/ftxt.h:
+coders/gif.h:
+coders/gradient.h:
+coders/gray.h:
+coders/hald.h:
+coders/hdr.h:
+coders/histogram.h:
+coders/hrz.h:
+coders/html.h:
+coders/icon.h:
+coders/info.h:
+coders/inline.h:
+coders/ipl.h:
+coders/jnx.h:
+coders/json.h:
+coders/kernel.h:
+coders/label.h:
+coders/mac.h:
+coders/magick.h:
+coders/map.h:
+coders/mask.h:
+coders/mat.h:
+coders/matte.h:
+coders/meta.h:
+coders/miff.h:
+coders/mono.h:
+coders/mpc.h:
+coders/mpr.h:
+coders/msl.h:
+coders/mtv.h:
+coders/mvg.h:
+coders/null.h:
+coders/ora.h:
+coders/otb.h:
+coders/palm.h:
+coders/pango.h:
+coders/pattern.h:
+coders/pcd.h:
+coders/pcl.h:
+coders/pcx.h:
+coders/pdb.h:
+coders/pdf.h:
+coders/pes.h:
+coders/pgx.h:
+coders/pict.h:
+coders/pix.h:
+coders/plasma.h:
+coders/pnm.h:
+coders/ps2.h:
+coders/ps3.h:
+coders/ps.h:
+coders/psd.h:
+coders/pwp.h:
+coders/qoi.h:
+coders/raw.h:
+coders/rgb.h:
+coders/rgf.h:
+coders/rla.h:
+coders/rle.h:
+coders/scr.h:
+coders/screenshot.h:
+coders/sct.h:
+coders/sfw.h:
+coders/sgi.h:
+coders/sixel.h:
+coders/stegano.h:
+coders/strimg.h:
+coders/sun.h:
+coders/svg.h:
+coders/tga.h:
+coders/thumbnail.h:
+coders/tile.h:
+coders/tim.h:
+coders/tim2.h:
+coders/txt.h:
+coders/uil.h:
+coders/url.h:
+coders/uyvy.h:
+coders/vicar.h:
+coders/vid.h:
+coders/video.h:
+coders/viff.h:
+coders/vips.h:
+coders/wbmp.h:
+coders/wpg.h:
+coders/xbm.h:
+coders/xc.h:
+coders/xcf.h:
+coders/xpm.h:
+coders/xps.h:
+coders/yaml.h:
+coders/ycbcr.h:
+coders/yuv.h:
+coders/coders-list.h:
