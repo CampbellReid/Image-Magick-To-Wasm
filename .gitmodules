@@ -1,3 +1,6 @@
 [submodule "imagemagick"]
 	path = imagemagick
 	url = https://github.com/ImageMagick/ImageMagick.git
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk.git
